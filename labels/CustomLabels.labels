@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ASM_Unassigned_User_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ASM Unassigned User ID</shortDescription>
+        <value>00541000001wjn3</value>
+    </labels>
+    <labels>
+        <fullName>ASM_with_same_start_date_validation_error_message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ASM with same start date validation error message</shortDescription>
+        <value>This ASM is already existing with same start date on TFS Area</value>
+    </labels>
+    <labels>
+        <fullName>All_Held_Offering_Community_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>All Held Offering Community URL</shortDescription>
+        <value>/recordlist/Held_Offering__c/All</value>
+    </labels>
+    <labels>
+        <fullName>Authorized_Titles_to_Edit_Completed_Objectives</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Authorized Titles to Edit Completed Objectives</shortDescription>
+        <value>Sales HQ Admin</value>
+    </labels>
+    <labels>
+        <fullName>Authorized_Titles_to_Edit_Objectives_InProgress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Authorized Titles to Edit Objectives InProgress</shortDescription>
+        <value>Region AA,DSM,DSSM,DSSO AA,ASM,Sales HQ Admin</value>
+    </labels>
+    <labels>
+        <fullName>Batch_User_ID</fullName>
+        <categories>Default Batch Class user</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Batch User ID</shortDescription>
+        <value>data.migration@toyota.com</value>
+    </labels>
+    <labels>
+        <fullName>Community_Email_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Community Email URL</shortDescription>
+        <value>https://devsrm-tfs-srm.cs90.force.com/dealerconnect/s/recordlist/Held_Offering__c/Recent</value>
+    </labels>
+    <labels>
+        <fullName>Community_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Community_Link</shortDescription>
+        <value>https://devsrm-tfs-srm.cs90.force.com/dealerconnect</value>
+    </labels>
+    <labels>
+        <fullName>Community_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Community_Name</shortDescription>
+        <value>Dealer Connect</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Deletion_Titles_Authorized</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Deletion Titles Authorized</shortDescription>
+        <value>National Account Manager;National Manager;Region Manager;Region AA;Product Manager;DSM;DSSM;DSSO AA;ASM;Regional Sales Manager;Regional Education Development Manager;National Regional Insurance Manager</value>
+    </labels>
+    <labels>
+        <fullName>DealerContact_Disclosure</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DealerContact Disclosure</shortDescription>
+        <value>Reminder: Please deactivate dealer contacts that no longer require access to Dealer Connect.</value>
+    </labels>
+    <labels>
+        <fullName>Dealer_TeamMember_Validation_Error_Message</fullName>
+        <categories>Validation</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Dealer TeamMember Validation Error Message</shortDescription>
+        <value>You are not a team member of this Account</value>
+    </labels>
+    <labels>
+        <fullName>Disclosure_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Disclosure Text</shortDescription>
+        <value>This Held Offering information may not be completely up to date.    
+Only rely on Route One for the most up-to-date information.</value>
+    </labels>
+    <labels>
+        <fullName>Email_Link_Org_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email Link Org ID</shortDescription>
+        <value>&amp;oid=</value>
+    </labels>
+    <labels>
+        <fullName>Email_Servlet_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email Servlet Message</shortDescription>
+        <value>/servlet/servlet.ImageServer?id=</value>
+    </labels>
+    <labels>
+        <fullName>Error_Log_Value_1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error Log Value 1</shortDescription>
+        <value>ERROR:</value>
+    </labels>
+    <labels>
+        <fullName>Error_Log_Value_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error Log Value 2</shortDescription>
+        <value>-&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Error_Log_Value_3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error Log Value 3</shortDescription>
+        <value>; Fields:</value>
+    </labels>
+    <labels>
+        <fullName>Event_Delete_ContactType_Error_Message</fullName>
+        <categories>Validation</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Event Delete Validation</shortDescription>
+        <value>You cannot delete this event . This belongs to CFPB-Related contact type</value>
+    </labels>
+    <labels>
+        <fullName>Event_Delete_Validation_Error_Message</fullName>
+        <categories>Validation</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Event Delete Validation Error Message</shortDescription>
+        <value>You cannot delete this event . This event does not belongs to you.</value>
+    </labels>
+    <labels>
+        <fullName>Financial_Year_Abbreviation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Financial Year Abbreviation</shortDescription>
+        <value>FY</value>
+    </labels>
+    <labels>
+        <fullName>Held_Offering_Community_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Held Offering Community URL</shortDescription>
+        <value>detail/</value>
+    </labels>
+    <labels>
+        <fullName>Objectives_Warning_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Objectives_Warning_Message</shortDescription>
+        <value>Editing Completed Objectives will revert them to In Progress. Press OK to save.</value>
+    </labels>
+    <labels>
+        <fullName>OrgWideAddress</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OrgWideAddress</shortDescription>
+        <value>noreplydealerconnect@toyota.com</value>
+    </labels>
+    <labels>
+        <fullName>OrgWideAddressSRM</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OrgWideAddressSRM</shortDescription>
+        <value>noreplysrm@toyota.com</value>
+    </labels>
+    <labels>
+        <fullName>Pending_Dealer_Guaranteed_Payment_Forms</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Pending Dealer Guaranteed Payment Forms</shortDescription>
+        <value>/s/recordlist/Form__c/00B41000008otSj</value>
+    </labels>
+    <labels>
+        <fullName>Pending_Dealer_Reserve_Debit_NoticeForms</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Pending Dealer Reserve Debit NoticeForms</shortDescription>
+        <value>/s/recordlist/Form__c/00B41000008otSk</value>
+    </labels>
+    <labels>
+        <fullName>Pending_Op_Product_Refund_Request_Forms</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Pending Op. Product Refund Request Forms</shortDescription>
+        <value>/s/recordlist/Form__c/00B41000008otSi</value>
+    </labels>
+    <labels>
+        <fullName>Restricted_Team_Roles</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Restricted Team Roles</shortDescription>
+        <value>A;B;C</value>
+    </labels>
+    <labels>
+        <fullName>Sales_HQ_Admin_User_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sales HQ Admin User ID</shortDescription>
+        <value>00541000002y85A</value>
+    </labels>
+    <labels>
+        <fullName>Scheduling_String</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Scheduling String</shortDescription>
+        <value>0 0 23 * * ?</value>
+    </labels>
+    <labels>
+        <fullName>String_Colon</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>String Colon</shortDescription>
+        <value>:</value>
+    </labels>
+    <labels>
+        <fullName>String_Semi_Colon</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>String Semi Colon</shortDescription>
+        <value>;</value>
+    </labels>
+    <labels>
+        <fullName>TFSArea_Deactivation_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TFS Area Deactivation Error Message when Dealers exist</shortDescription>
+        <value>Deactivation can’t be done as Dealers are associated to the TFS area</value>
+    </labels>
+    <labels>
+        <fullName>TT_Table_Customer_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT Table Customer Name</shortDescription>
+        <value>Customer Name</value>
+    </labels>
+    <labels>
+        <fullName>TT_Table_Estimated_Mail_Date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT Table Estimated Mail Date</shortDescription>
+        <value>Estimated Mail Date</value>
+    </labels>
+    <labels>
+        <fullName>TT_Table_Fedex_UPS_Tracking</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT Table Fedex/UPS Tracking #</shortDescription>
+        <value>Fedex/UPS Tracking #</value>
+    </labels>
+    <labels>
+        <fullName>TT_Table_Payoff_Date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT Table Payoff Date</shortDescription>
+        <value>Payoff Date</value>
+    </labels>
+    <labels>
+        <fullName>TT_Table_Title_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT Table Title Status</shortDescription>
+        <value>Title Status</value>
+    </labels>
+    <labels>
+        <fullName>TT_Table_VIN</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT Table VIN</shortDescription>
+        <value>VIN</value>
+    </labels>
+    <labels>
+        <fullName>TT_View_Account_Details</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT View Account Details</shortDescription>
+        <value>Account Details</value>
+    </labels>
+    <labels>
+        <fullName>TT_View_Back_to_Listing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT View Back to Listing</shortDescription>
+        <value>Back to Listing</value>
+    </labels>
+    <labels>
+        <fullName>TT_View_Mailing_Address</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT View Mailing Address</shortDescription>
+        <value>Mailing Address</value>
+    </labels>
+    <labels>
+        <fullName>TT_View_Vehicle</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TT View Vehicle</shortDescription>
+        <value>Vehicle</value>
+    </labels>
+    <labels>
+        <fullName>Task_Delete_ContactType_Error_Message</fullName>
+        <categories>Validation</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Contact type CFPB related Validation</shortDescription>
+        <value>You cannot delete this task as this is related to contact type CFPB related</value>
+    </labels>
+    <labels>
+        <fullName>Task_Delete_Validation_Error_Message</fullName>
+        <categories>Validation</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Delete Validation Error Message</shortDescription>
+        <value>You cannot delete this task. This task does not belongs to you.</value>
+    </labels>
+    <labels>
+        <fullName>Task_Subject_for_no_AreaID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Subject for no AreaID</shortDescription>
+        <value>Update Area ID on the Dealer</value>
+    </labels>
+    <labels>
+        <fullName>Task_Subject_for_no_DSSO</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Subject for no DSSO</shortDescription>
+        <value>Update DSSO Name and Area ID on the Dealer</value>
+    </labels>
+    <labels>
+        <fullName>TitleTracking_Fedex_URL</fullName>
+        <categories>Title Tracking</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TitleTracking_Fedex_URL</shortDescription>
+        <value>http://www.fedex.com/Tracking?language=english&amp;cntry_code=us&amp;tracknumbers=</value>
+    </labels>
+    <labels>
+        <fullName>TitleTracking_Search_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TitleTracking Search Message</shortDescription>
+        <value>You can enter in the VIN number below to pull up the record and status of the TFS Title that you&apos;re looking for. If you don&apos;t have the full VIN, but rather the last 8 digits of it, click the link below the Search button.</value>
+    </labels>
+    <labels>
+        <fullName>TitleTracking_UPS_URL</fullName>
+        <categories>Title Tracking</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TitleTracking_UPS_URL</shortDescription>
+        <value>http://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_Held_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking Held Status</shortDescription>
+        <value>Held</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_Not_Recieved_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title_Tracking_Not_Recieved_Status</shortDescription>
+        <value>TFS Has Not Received Title from Agency</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_Pain_In_Full_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking Pain In Full Status</shortDescription>
+        <value>Paid in Full, Ready for Release</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_State_To_State_Transfer_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking State To State Transfer Status</shortDescription>
+        <value>State to State Transfer - Waiting for New Title</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking Status</shortDescription>
+        <value>Status :</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_TFS_Recieved_status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking TFS Recieved status</shortDescription>
+        <value>TFS Has Received Title</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_Title_Sent_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking Title Sent Status</shortDescription>
+        <value>Title Sent</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_VIN</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking VIN</shortDescription>
+        <value>VIN:</value>
+    </labels>
+    <labels>
+        <fullName>Title_Tracking_partial_VIN_message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Tracking partial VIN message</shortDescription>
+        <value>If you have the last 8 digits of the VIN number you can enter them in combination below with either the customer&apos;s name or financial account number.</value>
+    </labels>
+    <labels>
+        <fullName>Training_Events_Deletion_Authorized_Titles</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Training Events Deletion Authorized Titles</shortDescription>
+        <value>ASM;Product Manager;Sales HQ Admin;Regional Education Development Manager</value>
+    </labels>
+    <labels>
+        <fullName>UI_Error_Message_Contact_Deactivation_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Error Message Contact Deactivation Error</shortDescription>
+        <value>You are not authorized to delete the contact.</value>
+    </labels>
+    <labels>
+        <fullName>UI_Error_Message_Contact_Deletion_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Error Message Contact Deletion Error</shortDescription>
+        <value>Activities are attached to contact. Contact cannot be deleted.</value>
+    </labels>
+    <labels>
+        <fullName>UI_Error_Message_Contact_Has_Portal_User</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Error Message Contact Has Portal User</shortDescription>
+        <value>It&apos;s Portal User, please deactivate the User. Contact cannot be deleted.</value>
+    </labels>
+    <labels>
+        <fullName>UI_Error_Message_Training_Class_Deactivate_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Error Message Training Class Deactivate Message</shortDescription>
+        <value>Unauthorized Action. Please contact System Administrator.</value>
+    </labels>
+    <labels>
+        <fullName>UI_Error_Message_Training_Class_Deactivate_Message_NonTrainer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Error Message Training Class Deactivate Message NonTrainer</shortDescription>
+        <value>You are not authorized to deactivate the Training Class since you are not designated as Trainer</value>
+    </labels>
+    <labels>
+        <fullName>UI_Error_Message_Training_Event_in_Future</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Error Message Training Event in Future</shortDescription>
+        <value>Training Class has a Training Event Associated in Future</value>
+    </labels>
+    <labels>
+        <fullName>UI_Generic_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UI Generic Error Message</shortDescription>
+        <value>An error has occurred. Please contact your System Administrator.</value>
+    </labels>
+    <labels>
+        <fullName>URL_External_Popup_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URL External Popup Message</shortDescription>
+        <value>You are now leaving TFS/LFS Dealer Connect and going to a website that is not operated by TFS/LFS. By clicking the link you will access a third party website.
+ &lt;br/&gt;&lt;br/&gt;
+TFS/LFS are not responsible for the content or security of the site. This site may have a different privacy policy, security level and terms and conditions, so please read the third party privacy and security policies closely.  
+&lt;br/&gt;&lt;br/&gt;
+TFS/LFS make no representation or warranty regarding the accuracy of the information contained on the linked site. If you have any questions or concerns about the information on the linked site, please contact the third party directly.
+&lt;br/&gt;&lt;br/&gt;
+Click Ok to continue.</value>
+    </labels>
+    <labels>
+        <fullName>URL_Internal_Popup_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URL Internal Popup Message</shortDescription>
+        <value>You are now leaving Dealer Connect.
+&lt;br/&gt;&lt;br/&gt;
+Click Ok to continue.</value>
+    </labels>
+    <labels>
+        <fullName>Year</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Year</shortDescription>
+        <value>2000</value>
+    </labels>
+    <labels>
+        <fullName>email_message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>email message@</shortDescription>
+        <value>&lt;html&gt;&lt;body style=&quot;font-family: arial; font-size: 12pt;&quot;&gt;&lt;img id=&quot;Logo&quot; src=&quot;</value>
+    </labels>
+</CustomLabels>
